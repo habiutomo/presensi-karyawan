@@ -4,7 +4,7 @@ Sistem absensi karyawan ini adalah aplikasi web yang membantu perusahaan untuk m
 
 ## Tampilan Aplikasi
 
-![Tampilan Aplikasi](1.png)
+![Tampilan Aplikasi](./1.png)
 
 ## Fitur Utama
 
