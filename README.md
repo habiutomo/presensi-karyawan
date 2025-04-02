@@ -54,4 +54,4 @@ Kontribusi terhadap proyek ini sangat dihargai. Silakan buat fork dari repositor
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+habizinnia@gmail.com
