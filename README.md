@@ -2,6 +2,10 @@
 
 Sistem absensi karyawan ini adalah aplikasi web yang membantu perusahaan untuk melacak kehadiran karyawan, mengelola permohonan cuti, dan menghasilkan laporan absensi.
 
+## Tampilan Aplikasi
+
+![Tampilan Aplikasi](1.png)
+
 ## Fitur Utama
 
 - **Absensi Check-In/Check-Out**: Karyawan dapat check-in dan check-out untuk mencatat kehadiran harian mereka.
